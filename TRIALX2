@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:0, group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:0, group-title="KIDS",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:0, group-title="KIDS",NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+
+#EXTINF:0, group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
 http://tvku.live:8888/0581689727/6358320853/78
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
