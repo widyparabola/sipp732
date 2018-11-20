@@ -1,5 +1,330 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1,CH. MIX (BIG TV)
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+
+#EXTINF:-1,FOX MOVIE HTV
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,FOX MOVIES ACTION HTV
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1,MOVIES NOW
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RCTI AFF
+https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:-1,INDOSIAR
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR GOJEK
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1,SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS7 HD
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:-1,TRANS TV
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,CNN HD [IND]
+http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
+#EXTINF:-1,NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE FEED
+http://id1.indostreamingtv.com/live/tv44/index.m3u8
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TVRI 2
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,TVRI SPORT
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1,INEWS
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+#EXTINF:-1,INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1,THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1,JAK tv
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+#EXTINF:-1,KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1,JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ASTRO HELLO
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:-1,MEDIACORP OKTO HD
+http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/04.m3u8
+#EXTINF:-1,SURIA
+http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_3.m3u8
+#EXTINF:-1,MEDIARORP 8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8
+#EXTINF:-1,MEDIARORP U
+http://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_3.m3u8
+#EXTINF:-1,MEDIARORP 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_3.m3u8
+#EXTINF:-1,TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,TV3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:-1,TV7
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
+#EXTINF:-1,TV8
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-3.m3u8
+#EXTINF:-1,TV9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live-2.m3u8
+#EXTINF:-1,TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+#EXTINF:-1,VASANTHAM
+http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+#EXTINF:-1,RTM PARLEMENT
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,O MUSIC FHD
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1,XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,TRACE SPORT
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+
+#EXTINF:-1,JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:-1,MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://persik.by/stream/2944/263250/32.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,IFLIX: FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: HBO-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IFLIX: AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,FOX MOVIES [AR]
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,SONY LE PLEX
+http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,SONY PIX
+http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
+
+#EXTINF:-1,LIGA GOJEK
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1,RCTI HD
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+#EXTINF:-1,FOX-SPORTS-HD [VT]
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX 2 [Asia]
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,FOX 3 [Asia]
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,FOX SP.3 HD [TW]
+http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,Sony TEN 1
+http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,Sony TEN 2
+http://thop.in/THOPTV_APP/zgbsat-3221226077-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,Sony TEN 3
+http://thop.in/THOPTV_APP/zgbsat-3221226330-02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,Sony SIX
+http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,Sony ESPN
+http://thop.in/THOPTV_APP/zgbsat-3221226076-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1,D Sport
+http://thop.in/THOPTV_APP/zgbsat-3221226484-002.m3u8
+#EXTINF:-1,FOX 2 INDO
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:-1,True Sport HD1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1,True Sport HD2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1,True Sport HD3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1,MATCH FOOTBALL 1
+http://persik.by/stream/3602/287583/33.m3u8
+#EXTINF:-1,MATCH FOOTBALL 2
+http://persik.by/stream/3602/287583/10217.m3u8
+#EXTINF:-1,MATCH FOOTBALL 3
+http://persik.by/stream/3602/287583/10218.m3u8
+#EXTINF:-1,MATCH FOOTBALL 1 HD
+http://persik.by/stream/3602/287583/10266.m3u8
+#EXTINF:-1,MATCH FOOTBALL 2 HD
+http://persik.by/stream/3602/287583/10267.m3u8
+#EXTINF:-1,MATCH FOOTBALL 3 HD
+http://persik.by/stream/3602/287583/10268.m3u8
+#EXTINF:-1,MATCH ARENA
+http://persik.by/stream/3602/287583/261.m3u8
+#EXTINF:-1,MATCH
+http://persik.by/stream/3602/287583/276.m3u8
+#EXTINF:-1,MATCH
+http://persik.by/stream/3602/287583/1077.m3u8
+#EXTINF:-1,Extreme Sports
+http://persik.by/stream/3602/287583/99.m3u8
+#EXTINF:-1,FOOTBALL
+http://persik.by/stream/176/296165/10294.m3u8
+#EXTINF:-1,MATCH ARENA
+http://persik.by/stream/176/296165/261.m3u8
+
+#EXTINF:-1,SETANTA SPORT+
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1,SETANTA SPORT
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+
+#EXTINF:-1,Fox Sports 1 US
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1,Fox Sports 2 US
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1,Fox Sports Racing US
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,NBCSN
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1,Sky Sport 1 HD
+http://92.60.237.33:17000/play/SkySport1
+#EXTINF:-1,Sky Sport 2 HD
+http://92.60.237.33:17000/play/SkySport2
+#EXTINF:-1,GR: OTE Sport 1
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2926
+#EXTINF:-1,GR: OTE Sport 2
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2925
+#EXTINF:-1,GR: OTE Sport 3
+http://iptv.ndasat.com:88/329056230761828/329056230761828/2938
+#EXTINF:-1,UK: BT Sport 1
+http://iptv.ndasat.com:88/329056230761828/329056230761828/9
+#EXTINF:-1,UK: BT Sport 2
+http://iptv.ndasat.com:88/329056230761828/329056230761828/10
+#EXTINF:-1,UK: BT Sport 3
+http://iptv.ndasat.com:88/329056230761828/329056230761828/18
+
+#EXTINF:-1,AR:BeINSports_HD1
+http://hall2mark.ddns.net:80/medoum1/medoum/6907
+#EXTINF:-1,AR:BeINSports_HD2
+http://hall2mark.ddns.net:80/medoum1/medoum/6906
+#EXTINF:-1,AR:BeINSports_HD3
+http://hall2mark.ddns.net:80/medoum1/medoum/6905
+#EXTINF:-1,AR:BeINSports_HD4
+http://hall2mark.ddns.net:80/medoum1/medoum/6904
+#EXTINF:-1,AR:BeINSports_HD5
+http://hall2mark.ddns.net:80/medoum1/medoum/6903
+#EXTINF:-1,AR:BeINSports_HD6
+http://hall2mark.ddns.net:80/medoum1/medoum/6902
+#EXTINF:-1,AR:BeINSports_HD7
+http://hall2mark.ddns.net:80/medoum1/medoum/6901
+#EXTINF:-1,AR:BeINSports_HD8
+http://hall2mark.ddns.net:80/medoum1/medoum/6900
+#EXTINF:-1,AR:BeINSports_HD9
+http://hall2mark.ddns.net:80/medoum1/medoum/6899
+#EXTINF:-1,AR:beINSPORTS_10HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6898
+#EXTINF:-1,AR:BEINSPORTS_11HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6897
+
+#EXTINF:-1,GINX ESPORTS TV
+http://tvku.live:8888/widysatelitgmailcom/9633920619/532
+
+#EXTINF:-1,BeIN Sport 1 ID
+http://tvku.live:8888/widysatelitgmailcom/9633920619/728
+#EXTINF:-1,BeIN Sport 2 ID
+http://tvku.live:8888/widysatelitgmailcom/9633920619/729
+#EXTINF:-1,BeIN Sport 3 ID
+http://tvku.live:8888/widysatelitgmailcom/9633920619/730
+#EXTINF:-1,Fox Sports 1 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/9633920619/911
+#EXTINF:-1,Fox Sports 2 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/9633920619/895
+#EXTINF:-1,Fox Sports 3 Malaysia
+http://tvku.live:8888/widysatelitgmailcom/9633920619/913
+#EXTINF:-1,Astro Super Sports 1
+http://tvku.live:8888/widysatelitgmailcom/9633920619/882
+#EXTINF:-1,Astro Super Sports 2
+http://tvku.live:8888/widysatelitgmailcom/9633920619/892
+#EXTINF:-1,Astro Super Sports 3
+http://tvku.live:8888/widysatelitgmailcom/9633920619/893
+#EXTINF:-1,Astro Super Sports 4
+http://tvku.live:8888/widysatelitgmailcom/9633920619/894
+#EXTINF:-1,Fox Sports 1
+http://tvku.live:8888/widysatelitgmailcom/9633920619/51
+#EXTINF:-1,Fox Sports 2
+http://tvku.live:8888/widysatelitgmailcom/9633920619/102
+#EXTINF:-1,Fox Sports 3
+http://tvku.live:8888/widysatelitgmailcom/9633920619/101
+#EXTINF:-1,Skynet HD
+http://tvku.live:8888/widysatelitgmailcom/9633920619/679
+
+
+
+
 #EXTINF:0, group-title="INDOTV",ANTV 1
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
